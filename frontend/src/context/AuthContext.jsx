@@ -56,7 +56,7 @@ export const AuthProvider = ({ children }) => {
     setUser(null);
   };
 
-  // 🔥 NEW: Change username & sync context
+
   const changeUserName = async (userName) => {
     // eslint-disable-next-line no-useless-catch
     try {
