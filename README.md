@@ -2,6 +2,7 @@
 
 ## 🚀 Project Overview
 A simple notes application with user authentication. Backend is built with Express + MongoDB, frontend is a React (Vite) app with Tailwind. Notes are private to each authenticated user.
+I updated it
 
 ---
 
